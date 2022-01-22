@@ -1,0 +1,26 @@
+.carousel-bg1{
+    background-color: #fff3f2;
+}
+.carousel-bg2{
+    background-color: #feeae9;
+}
+.carousel-bg3{
+    background-color: #ffdddb;
+}
+.buyNow-btn{
+    background-color: #ff257a;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;;
+}
+.category-bg1{
+    background-color: #b8ff12;
+}
+.category-bg2{
+    background-color: #fff01e;
+}
+.category-bg3{
+    background-color: #ffc107;
+}
